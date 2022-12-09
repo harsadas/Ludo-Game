@@ -1,0 +1,27 @@
+
+body{
+
+    background-color: rgb(136, 207, 252);
+}
+h1{
+    color: blueviolet;
+   text-align: center;
+    
+}
+img{
+margin-left: 25%;
+height: 200px;
+margin-top: 10%;
+}
+.p1{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 7.9%;
+}
+.p2{
+
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -16%;
+}
+
