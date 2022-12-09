@@ -1,12 +1,12 @@
 var imagesource1 = Math.floor(Math.random() * 6) + 1;
 var randomimage1 = "dice" + imagesource1 + ".png";
-var imagesource1 = "/dom/images/" + randomimage1;
+var imagesource1 = "/Ludo Game/images/" + randomimage1;
 var image1 = document.querySelectorAll("img")[0];
 image1.setAttribute("src", imagesource1);
 
 var imagesource2 = Math.floor(Math.random() * 6) + 1;
 var randomimage2 = "dice" + imagesource2 + ".png";
-var imagesource2 = "/dom/images/" + randomimage2;
+var imagesource2 = "/Ludo Game/images/" + randomimage2;
 var image2 = document.querySelectorAll("img")[1];
 image2.setAttribute("src", imagesource2);
 
